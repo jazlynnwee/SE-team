@@ -1,0 +1,19 @@
+{
+  "name": "se-deal-strategy",
+  "version": "0.1.0",
+  "description": "Deal strategy and account planning coach for SEs selling complex B2G software to transit agencies and private operators. Synthesizes call notes, transcripts, and voice memos into a read on where a deal stands; benchmarks the SE's contribution against the DSCI rubric; and suggests prioritized next steps with the 'why' behind each. Bundles transit-specific references: discovery questions by persona, on-site playbook, MEDDPICC for transit, deal health scorecard, competitive intel (Trapeze, RideCo, Via), reference deployments (MBTA, OCTA, DART, CapMetro, PSTA), the Spare product suite by maturity tier, and operational-discovery notes for implementation handoff.",
+  "author": {
+    "name": "Spare Solutions Engineering"
+  },
+  "license": "MIT",
+  "keywords": [
+    "deal-strategy",
+    "account-planning",
+    "discovery",
+    "meddpicc",
+    "transit",
+    "b2g",
+    "solutions-engineering",
+    "spare"
+  ]
+}

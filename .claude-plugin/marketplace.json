@@ -1,0 +1,14 @@
+{
+  "name": "se-team",
+  "owner": { "name": "Jazlynn Wee" },
+  "plugins": [
+    {
+      "name": "se-deal-strategy",
+      "source": "./se-deal-strategy",
+      "description": "Deal strategy and account-planning coach for SEs selling complex B2G software to transit agencies and private operators.",
+      "version": "0.1.0",
+      "category": "solutions-engineering",
+      "keywords": ["deal-strategy","account-planning","discovery","meddpicc","transit","b2g","solutions-engineering","spare"]
+    }
+  ]
+}
